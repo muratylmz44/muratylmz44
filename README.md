@@ -27,7 +27,7 @@
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react  )
 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
+
 
 <img src="https://img.shields.io/badge/selenium-43b02a?logo=Selenium&logoColor=white" alt="Selenium" style="vertical-align:top; margin:4px" width="100" height="33"> 
 
@@ -101,6 +101,53 @@
 
 
 ![](https://komarev.com/ghpvc/?username=muratylmz44&color=green)
+
+
+#### Tech Stack
+
+
+#### Frontend
+
+<div align="left">
+
+
+
+<img src="https://svgshare.com/i/jMe.svg" style="left; margin:4px" width="500" height="150">
+
+  <img src="https://svgshare.com/i/jMe.svg" style="left; margin:4px" width="500" height="150"> 
+
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="left; margin:4px"> 
+
+  
+</div>
+
+
+
+#### ⚙️ Version Control
+
+
+#### ⚙️ CI /CD
+
+
+#### 🔧 IDE
+
+
+
+
+#### Database
+
+
+
+
+---
+
+🧰 Toolbox
+
+<img src="https://svgshare.com/i/jMe.svg" alt="Bootstrap Logo" width="200" height="150"/> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML Logo" width="150" height="150"/>
+
+---
+
+
 
 
 
