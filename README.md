@@ -1,6 +1,20 @@
+<h5 align="center">
+   <i>⚡️I don't trust Software Developer , I always testing⚡️</i>
+  </h5>
+<div align="center">
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/murat-yilmaz-2b4322187/">Murat YILMAZ</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  
+</div>
 
-Hi there 👋 I'm [Murat YILMAZ]
-> Quality Assurance Tester [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%BCmit-y%C4%B1lmaz-21790927/)](https://www.linkedin.com/in/murat-yilmaz-2b4322187/)
+<img src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif" align="right" width="350" height="200" >
+
+
+
+
+
+
+
+> ### Quality Assurance Tester [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%BCmit-y%C4%B1lmaz-21790927/)](https://www.linkedin.com/in/murat-yilmaz-2b4322187/)
 
 ### 🔗 TOOLS & TECHNOLOGIES
 
@@ -31,7 +45,7 @@ Hi there 👋 I'm [Murat YILMAZ]
 
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
 
-<img src="https://i.im.ge/2022/07/20/F2sbTM.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
+
 
 <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="vertical-align:top; margin:4px" width="100" height="33"> 
 
@@ -60,6 +74,48 @@ Hi there 👋 I'm [Murat YILMAZ]
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
 
 <img src="https://taverna.devall.com.br/uploads/default/original/1X/f54d72452c81eccf0f671908d6863135e035779d.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
+
+<img class="aligncenter" style="width: 125px; height: 125px;" src="http://innovincitech.com/wp-content/uploads/2020/05/jenkins.png">
+
+<img src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" style="vertical-align:top; margin:4px" width="200" height="50"> 
+
+
+<img src="https://svgshare.com/i/jMU.svg" style="vertical-align:top; margin:4px" width="200" height="60"> 
+
+
+<br/>
+
+<details>
+<summary>:bulb: GitHub Stats   </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=muratylmz44&theme=cobalt" >
+
+</details>
+
+<br/>
+
+<details>
+<summary>:bulb: Most Used Languages   </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratylmz44&layout=compact" >
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
