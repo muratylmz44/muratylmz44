@@ -20,41 +20,41 @@
 
 ---
 ### 🔗 TOOLS & TECHNOLOGIES
-<span style="margin:5px">
-   <img src="https://img.shields.io/badge/selenium-43b02a?logo=Selenium&logoColor=white" alt="Selenium" style="vertical-align:top; margin:4px" width="100px" height="33px"> 
+<span style="padding:15px">
+   <img src="https://img.shields.io/badge/selenium-43b02a?logo=Selenium&logoColor=white" alt="Selenium" height="36px" style="padding:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Selenium" style="vertical-align:top; margin:2px" width="100px" height="33px">
+<span>
+   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Selenium" height="36px" style="margin:15px">
 </span>
-<span style="margin:5px">
-   <img src="https://svgshare.com/i/jKK.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
+<span>
+   <img src="https://svgshare.com/i/jKK.svg" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://i0.wp.com/nextflow.in.th/wp-content/uploads/postman-logo-300x141.png" style="vertical-align:top; margin:4px" width="100" height="45"> 
+<span>
+   <img src="https://i0.wp.com/nextflow.in.th/wp-content/uploads/postman-logo-300x141.png" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png" style="vertical-align:top; margin:2px" width="100" height="33"> 
+<span>
+<img src="https://user-images.githubusercontent.com/81934354/180577097-fa1faeea-46f3-4ff4-a57a-30a363d261ac.png" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="vertical-align:top; margin:4px" width="100" height="33"> 
+<span>
+   <img src="https://user-images.githubusercontent.com/81934354/180577099-99a16421-fa06-46ea-aa04-d53668f726f5.png" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://i.im.ge/2022/07/20/F2arUy.png" style="vertical-align:top; margin:4px" width="100" height="33">
+<span>
+   <img src="https://user-images.githubusercontent.com/81934354/180577101-bc67bc5e-6244-4486-960e-dc0cad8b82a0.png" height="36px" style="margin:15px">
 </span>
-<span style="margin:5px">
-   <img src="https://svgshare.com/i/jKN.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
+<span>
+   <img src="https://svgshare.com/i/jKN.svg" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://svn.apache.org/repos/asf/jmeter/site/images/logo.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
+<span>
+   <img src="https://svn.apache.org/repos/asf/jmeter/site/images/logo.svg" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">  
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
+<span>  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" style="vertical-align:top; margin:4px" width="200" height="50"> 
+<span>
+   <img src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" height="36px" style="margin:15px"> 
 </span>
-<span style="margin:5px">
-   <img src="https://svgshare.com/i/jMU.svg" style="vertical-align:top; margin:4px" width="200" height="60"> 
+<span>
+   <img src="https://svgshare.com/i/jMU.svg" height="36px" style="margin:15px"> 
 </span>
 <br/>
 
