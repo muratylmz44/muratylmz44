@@ -118,6 +118,10 @@
 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="left; margin:4px"> 
 
+
+
+
+
   
 </div>
 
@@ -126,7 +130,7 @@
 #### ⚙️ Version Control
 
 
-#### ⚙️ CI /CD
+
 
 
 #### 🔧 IDE
@@ -175,14 +179,29 @@
    <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="Visual Studio Logo" width="150" height="80"/>
    
    
+  
+  
    
-   
-   
+  
 ---
 
    
+ 
+ 
+ 
+   ---
+
+#### ⚙️ CI /CD
+
+   <img src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" alt="Visual Studio Logo" width="150" height="80"/>
    
    
+ 
+
+---
+ 
+ 
+ 
 
 
 
