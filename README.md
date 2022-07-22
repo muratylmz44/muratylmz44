@@ -141,15 +141,54 @@
 
 ---
 
-🧰 Toolbox
+#### Frontend
 
-<img src="https://svgshare.com/i/jMe.svg" alt="Bootstrap Logo" width="200" height="150"/> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML Logo" width="150" height="150"/>
+   <img src="https://svgshare.com/i/jMe.svg" alt="Bootstrap Logo" width="200" height="150"/>
+   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML Logo" width="150" height="150"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100" height="100"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="HTML Logo" width="100" height="100"/>
+   
 
 ---
+   
+   
+   ---
+
+ #### 🔧 IDE
+
+   <img src="https://docs.toradex.com/107819-visual-studio-code-logo-2020.svg" alt="VisualStudioCode Logo" width="180" height="150"/>
+   <img src="https://i.im.ge/2022/07/20/F2UGyS.png" alt="HTML Logo" width="300" height="100"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="Eclipse Logo" width="180" height="150"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" alt="Visual Studio Logo" width="150" height="150"/>
+   
+   
+ 
+
+---
+   
+   
+   #### Database
+
+   <img src="https://svgshare.com/i/jLY.svg" alt="Visual Studio Logo" width="150" height="150"/>
+   
+   
+   <img src="https://www.kindpng.com/picc/m/403-4036315_microsoft-sql-server-logo-sql-server-logo-svg.png" alt="Visual Studio Logo" width="150" height="80"/>
+   
+   
+   
+   
+   
+---
+
+   
+   
+   
 
 
 
 
+   
+   
 
 
 
