@@ -72,10 +72,10 @@
    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML Logo" width="150" height="150"/>
    </span>
    <span style="margin:5px">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100" height="100"/>
+   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS Logo" width="150" height="150"/>
    </span>
    <span style="margin:5px">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="HTML Logo" width="100" height="100"/>
+   <img src="https://repository-images.githubusercontent.com/161459736/524e6f00-8313-11e9-9c74-51546bca55a3" alt="JS Logo" width="150" height="120"/>
    
    
 
