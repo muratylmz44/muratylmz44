@@ -1,99 +1,62 @@
 <h5 align="center">
    <i>⚡️I don't trust Software Developer , I always testing⚡️</i>
-  </h5>
+</h5>
 <div align="center">
-   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/murat-yilmaz-2b4322187/">Murat YILMAZ</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-  
+   <h1>Hi there, I'm <a href="https://www.linkedin.com/in/murat-yilmaz-2b4322187/">Murat YILMAZ</a> 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+   </h1>  
+</div>
+<div>
+   <img src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif" align="right" width="350" height="200" >
+
+   > ### Quality Assurance Tester [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%BCmit-y%C4%B1lmaz-21790927/)](https://www.linkedin.com/in/murat-yilmaz-2b4322187/)
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
+   <br/>
 </div>
 
-<img src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif" align="right" width="350" height="200" >
-
-
-
-
-
-
-
-> ### Quality Assurance Tester [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%BCmit-y%C4%B1lmaz-21790927/)](https://www.linkedin.com/in/murat-yilmaz-2b4322187/)
-
+---
 ### 🔗 TOOLS & TECHNOLOGIES
-
-
-![selenium](https://img.shields.io/badge/java-43b02a?logo=java&logoColor=white)
-
-![selenium](https://img.shields.io/badge/cucumber-43b02a?logo=cucumber&logoColor=black)
-
-![java](https://img.shields.io/badge/java-43b02a?logo=java&logoColor=white) <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react  )
-
-
-
-<img src="https://img.shields.io/badge/selenium-43b02a?logo=Selenium&logoColor=white" alt="Selenium" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Selenium" style="vertical-align:top; margin:2px" width="100" height="33">
-
-
- 
-
-<img src="https://svgshare.com/i/jKK.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-<img src="https://svgshare.com/i/jKg.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
+<span style="margin:5px">
+   <img src="https://img.shields.io/badge/selenium-43b02a?logo=Selenium&logoColor=white" alt="Selenium" style="vertical-align:top; margin:4px" width="100px" height="33px"> 
+</span>
+<span style="margin:5px">
+   <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Selenium" style="vertical-align:top; margin:2px" width="100px" height="33px">
+</span>
+<span style="margin:5px">
+   <img src="https://svgshare.com/i/jKK.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
+</span>
+<span style="margin:5px">
+   <img src="https://svgshare.com/i/jKg.svg" style="vertical-align:top; margin:4px" width="100" height="45"> 
+</span>
+<span style="margin:5px">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/a9326d72465217.5be8ae1c0a8a7.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-
-<img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-<img src="https://i.im.ge/2022/07/20/F2arUy.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-<img src="https://svgshare.com/i/jKN.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-<img src="https://svn.apache.org/repos/asf/jmeter/site/images/logo.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-
-
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
-
-
-
-
-
-<img src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" style="vertical-align:top; margin:4px" width="200" height="50"> 
-
-
-<img src="https://svgshare.com/i/jMU.svg" style="vertical-align:top; margin:4px" width="200" height="60"> 
-
-
+</span>
+<span style="margin:5px">
+   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" style="vertical-align:top; margin:4px" width="100" height="33"> 
+</span>
+<span style="margin:5px">
+   <img src="https://i.im.ge/2022/07/20/F2arUy.png" style="vertical-align:top; margin:4px" width="100" height="33">
+</span>
+<span style="margin:5px">
+   <img src="https://svgshare.com/i/jKN.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
+</span>
+<span style="margin:5px">
+   <img src="https://svn.apache.org/repos/asf/jmeter/site/images/logo.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
+</span>
+<span style="margin:5px">  
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" style="vertical-align:top; margin:4px" width="100" height="33"> 
+</span>
+<span style="margin:5px">
+   <img src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" style="vertical-align:top; margin:4px" width="200" height="50"> 
+</span>
+<span style="margin:5px">
+   <img src="https://svgshare.com/i/jMU.svg" style="vertical-align:top; margin:4px" width="200" height="60"> 
+</span>
 <br/>
-
-<details>
-<summary>:bulb: GitHub Stats   </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=muratylmz44&theme=cobalt" >
-
-</details>
-
-<br/>
-
-<details>
-<summary>:bulb: Most Used Languages   </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratylmz44&layout=compact" >
-
-</details>
-
-
-![](https://komarev.com/ghpvc/?username=muratylmz44&color=green)
-
-
 #### Tech Stack
 
 
@@ -110,8 +73,7 @@
 
 ---
    
-   
-   ---
+
 
  #### 🔧 IDE
 
@@ -155,13 +117,26 @@
    <img src="https://svgshare.com/i/jKP.svg" style="vertical-align:top; margin:4px" width="100" height="33"> 
    
     
-   
-   
  
-
 ---
  
- 
+ <details>
+<summary>:bulb: GitHub Stats   </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=muratylmz44&theme=cobalt" >
+
+</details>
+
+<br/>
+
+<details>
+<summary>:bulb: Most Used Languages   </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratylmz44&layout=compact" >
+
+</details>
+
+
+![](https://komarev.com/ghpvc/?username=muratylmz44&color=green)
+
  
 
 
