@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-### 🔗 FRONTEND
+### 🔘 FRONTEND
 ---
 <p align="left">
 <img src="https://user-images.githubusercontent.com/81934354/180617248-22e6e2cb-3cf2-45ba-bc70-96a4d252dda0.png" alt="Bootstrap Logo" height="40"/>
@@ -66,7 +66,7 @@
 <br/>
 <br/>
 
-#### 🔧 IDE
+### 🔘 IDE
 ---
 <p align="left">
 
@@ -82,7 +82,7 @@
 <br/>
 <br/>
    
-#### DATABASE
+### 🔘 DATABASE
 ---
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="40" />
@@ -94,7 +94,7 @@
 <br/>
 <br/>
 
-### ⚙️ CI /CD
+### 🔘 CI /CD
 ---
 <p align="left"> 
 <img src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" alt="Visual Studio Logo" height="40" />
