@@ -36,6 +36,8 @@
 <img src="https://svgshare.com/i/jMU.svg" height="40" alt="Cucumber"> 
 </p>
 
+<br/>
+<br/>
 
 ### 🔗 FRONTEND
 ---
@@ -47,15 +49,21 @@
 
 </p>
 
+<br/>
+<br/>
+
 #### 🔧 IDE
 ---
 <p align="left">
+
 <img src="https://docs.toradex.com/107819-visual-studio-code-logo-2020.svg" alt="VisualStudioCode Logo" height="40"/>      
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="Eclipse Logo" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" alt="Visual Studio Logo" height="40"/>
 <img src="https://user-images.githubusercontent.com/81934354/180577101-bc67bc5e-6244-4486-960e-dc0cad8b82a0.png" height="40" alt="Android Studio"></p>
 
 </p>
+<br/>
+<br/>
    
 #### DATABASE
 ---
@@ -65,7 +73,10 @@
 
 </p>
 
-#### ⚙️ CI /CD
+<br/>
+<br/>
+
+### ⚙️ CI /CD
 ---
 <p align="left"> 
 <img src="https://cdn.cdnlogo.com/logos/d/8/docker.svg" alt="Visual Studio Logo" height="40" />
