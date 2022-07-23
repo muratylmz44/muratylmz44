@@ -32,7 +32,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/81934354/180616164-57d01308-fbd3-4696-9836-e4b250f8d80d.svg" height="40" alt="TestNG"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/81934354/180577099-99a16421-fa06-46ea-aa04-d53668f726f5.png" height="40" alt="JUnit"> 
+<img src="https://user-images.githubusercontent.com/81934354/180616497-e4177038-69d9-4f77-a77e-e261045a173b.svg" height="40" alt="JUnit"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://svgshare.com/i/jKN.svg" height="40" alt="RestAPI"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Cypress.png" height="40" alt="Cypress"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.keytorc.com/wp-content/uploads/2014/08/appium.png" height="40" alt="Appium"> 
+<img src="https://camo.githubusercontent.com/3eb867d17687f3afdc1f69c250427f98c9577286e83d4d8c10ca7683287549ad/68747470733a2f2f7777772e6b6579746f72632e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30382f61707069756d2e706e67" height="40" alt="Appium"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://svgshare.com/i/jMU.svg" height="40" alt="Cucumber"> 
 </p>
