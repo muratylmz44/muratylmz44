@@ -42,7 +42,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/81934354/180616726-c08a6533-554e-4cf9-a647-41ea5e934271.svg" height="40" alt="Appium"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://svgshare.com/i/jMU.svg" height="40" alt="Cucumber"> 
+<img src="https://user-images.githubusercontent.com/81934354/180617097-7431fd1f-a938-4e07-8b5b-956cafcde8d5.svg" height="40" alt="Cucumber"> 
 </p>
 
 <br/>
