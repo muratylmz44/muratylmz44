@@ -51,9 +51,9 @@
 ### 🔗 FRONTEND
 ---
 <p align="left">
-<img src="https://svgshare.com/i/jMe.svg" alt="Bootstrap Logo" height="40"/>
+<img src="https://user-images.githubusercontent.com/81934354/180617248-22e6e2cb-3cf2-45ba-bc70-96a4d252dda0.png" alt="Bootstrap Logo" height="40"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="HTML Logo" height="40"/>
+<img src="https://user-images.githubusercontent.com/81934354/180617484-60fea03d-a099-4e18-95d6-3d731c584ef7.svg" alt="HTML Logo" height="40"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS Logo" height="40"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
