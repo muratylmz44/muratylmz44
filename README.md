@@ -9,7 +9,9 @@
 <div>
    <img src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif" align="right" width="350" height="200" >
 
-   > ### Quality Assurance Tester   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murat-yilmaz-2b4322187/)
+### Quality Assurance Tester 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murat-yilmaz-2b4322187/)
    <br/>
    <br/>
    <br/>
