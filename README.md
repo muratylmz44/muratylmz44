@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://westfax.com/img/Postman_Logo.svg" alt="postman" height="40"/>  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/81934354/180577097-fa1faeea-46f3-4ff4-a57a-30a363d261ac.png" height="40" alt="TestNG"> 
+<img src="https://user-images.githubusercontent.com/81934354/180616164-57d01308-fbd3-4696-9836-e4b250f8d80d.svg" height="40" alt="TestNG"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/81934354/180577099-99a16421-fa06-46ea-aa04-d53668f726f5.png" height="40" alt="JUnit"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
