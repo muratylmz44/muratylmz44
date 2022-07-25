@@ -74,9 +74,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="Eclipse Logo" height="40"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" alt="Visual Studio Logo" height="40"/>
+<img src="https://velog.velcdn.com/images/codemcd/post/c8c93f48-fcf2-4793-a23d-6f6ed1a12803/intellij_idea_logo.png" height="40" alt="IntelliJ">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/81934354/180577101-bc67bc5e-6244-4486-960e-dc0cad8b82a0.png" height="40" alt="Android Studio"></p>
+<img src="https://user-images.githubusercontent.com/81934354/180577101-bc67bc5e-6244-4486-960e-dc0cad8b82a0.png" height="40" alt="Android Studio">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Visual_Studio_2012_logo_and_wordmark.svg" alt="Visual Studio Logo" height="40"/>
+
+</p>
 
 </p>
 <br/>
